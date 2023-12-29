@@ -1,0 +1,12 @@
+mom = 31
+print(mom + 5)
+dad = 32
+print(dad + 5)
+sister = 1
+print(sister + 5)
+sister = 6
+print(sister + 5)
+brother = 8
+print(brother + 5)
+pet = 5
+print(pet + 5)
